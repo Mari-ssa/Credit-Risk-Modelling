@@ -1,7 +1,7 @@
 # Credit Risk Modeling – Loan Approval Prediction
 
 ## Project Overview
-This project focuses on building and evaluating machine learning models for **credit risk assessment**, specifically predicting whether a loan application will be **approved or rejected**. The project is designed from an internship and placement perspective, emphasizing both predictive performance and business-driven risk analysis.
+This project focuses on building and evaluating machine learning models for **credit risk assessment**, specifically predicting whether a loan application will be **approved or rejected**. 
 
 ---
 
