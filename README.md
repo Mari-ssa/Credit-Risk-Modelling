@@ -83,7 +83,7 @@ Key insights:
 ## Technologies Used
 - Python  
 - NumPy, Pandas  
-- Seaborn, Matplotlib  
+- Matplotlib  
 - Scikit-learn  
 
 ---
