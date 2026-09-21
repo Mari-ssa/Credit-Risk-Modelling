@@ -24,7 +24,7 @@ Key observations from exploratory analysis include:
 
 ---
 
-## 🛠 Feature Engineering & Preprocessing
+## Feature Engineering & Preprocessing
 - Cleaned and standardized column names.
 - Converted categorical variables into numerical format.
 - Created a **loan-to-income ratio** to measure repayment burden.
