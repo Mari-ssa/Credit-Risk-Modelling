@@ -72,14 +72,6 @@ Key insights:
 
 ---
 
-## Future Improvements
-- Implement ensemble models such as Random Forest or XGBoost.
-- Apply cross-validation for more robust evaluation.
-- Introduce cost-sensitive learning to model financial loss explicitly.
-- Add explainability techniques such as feature importance or SHAP values.
-
----
-
 ## Technologies Used
 - Python  
 - NumPy, Pandas  
